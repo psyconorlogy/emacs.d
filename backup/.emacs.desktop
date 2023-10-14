@@ -1,0 +1,381 @@
+;; -*- mode: emacs-lisp; lexical-binding:t; coding: utf-8-emacs; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Wed Sep 20 01:56:09 2023
+;; Desktop file format version 208
+;; Emacs version 29.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (25866 17193 776788 166000) (desktop . "208") "cjf@main1" nil nil ((((minibuffer . t) (undecorated) (override-redirect) (font . "-GOOG-Noto Sans Mono-regular-normal-normal-*-21-*-*-*-*-0-iso10646-1") (border-width . 0) (internal-border-width . 0) (child-frame-border-width) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#eaeaea") (background-color . "#000000") (mouse-color . "black") (border-color . "#424242") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 0) (tab-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (scroll-bar-height . 16) (alpha) (alpha-background) (no-focus-on-map) (no-accept-focus) (fullscreen) (visibility . t) (use-frame-synchronization) (skip-taskbar) (z-group) (display-type . color) (background-mode . dark) (cursor-color . "#d54e53") (font-parameter) (sticky) (shaded) (environment) (dnd-root-window-position) (last-focus-update . t) (frameset--id . "7C2D-CAC2-ABEA-A0A7") (frameset--mini t . t) (frameset--text-pixel-width . 838) (frameset--text-pixel-height . 1019) (height . 33) (width . 64) (modeline . t) (unsplittable) (left . 0) (top . 0) (icon-name) (display . ":0.0") (explicit-name)) ((min-height . 8) (min-width . 10) (min-height-ignore . 7) (min-width-ignore . 4) (min-height-safe . 2) (min-width-safe . 2) (min-pixel-height . 240) (min-pixel-width . 130) (min-pixel-height-ignore . 156) (min-pixel-width-ignore . 42) (min-pixel-height-safe . 60) (min-pixel-width-safe . 26)) vc (pixel-width . 854) (pixel-height . 989) (total-width . 66) (total-height . 33) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 854) (pixel-height . 494) (total-width . 66) (total-height . 16) (normal-height . 0.5) (normal-width . 1.0) (buffer "github-view.txt" (selected . t) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 178) (start . 1)) (prev-buffers ("TODO" 1 150) ("internet.clj" 1 149) ("core.clj • ftbat" 1 57) ("quickstart" 1 492) ("thingsimnotgoodat" 207 279) ("ThingsILearned" 1 1) ("hello.clj" 122 390) ("core.clj • chapter2" 952 1105) ("chapter2 • src" 1 224) ("src • chapter2" 1 163) ("chapter2 • clojure" 1 491) ("macrofun.clj" 1011 1124) ("ftbat" 1 270) ("src • ftbat" 1 160) ("project.clj" 1 384) ("*scratch*" 1 39))) (leaf (last . t) (pixel-width . 854) (pixel-height . 495) (total-width . 66) (total-height . 17) (normal-height . 0.5) (normal-width . 1.0) (buffer "*eww*" (selected) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 2490) (start . 2072)) (prev-buffers ("*eww*" 2072 2490) ("C8TECH10.HTM" 1 1) ("ASM" 1 568) ("index.html" 1 1) ("org-mode" 1 1) ("GNU" 1 713) ("www.gnu.org" 1 129) ("software" 1 138) ("emacs" 1 144) ("manual" 1 151) ("html_node" 1 161) ("org" 1 1) ("graphics" 1 138) ("*cider-repl clojure/ftbat:localhost:43951(clj)*" 6966 7441) ("*cider-error*" 28 2144)))))])
+(setq comint-input-ring nil)
+(setq compile-history nil)
+(setq desktop-missing-file-warning nil)
+(setq dired-regexp-history nil)
+(setq extended-command-history '("desktop-save" "eww-open-file" "eglot" "eww-open-file" "eww" "make-directory" "cider" "customize" "customize-face" "set-face-font" "describe-font" "cider-jack-in" "eval-last-sexp" "replace-regexp" "cider-jack-in" "load-file" "eval-last-sexp" "package-delete" "typit-advanced-test" "typit-test" "package-install" "cider-jack-in" "package-install" "copy-file" "delete-file" "js-jsx-mode" "package-install" "transpose-lines" "pip-requirements-mode" "run-python"))
+(setq face-name-history '("all faces"))
+(setq file-name-history '("~/.emacs.d/backup/" "~/TODO/github-view.txt" "~/TODO/" "~/Downloads/tech/ASM/C8TECH10.HTM" "~/Downloads/tech/ASM/" "~/Downloads/tech/GNU/org-mode/index.html" "~/Downloads/tech/GNU/org-mode/" "~/Downloads/tech/GNU/www.gnu.org/" "~/clojure/ftbat/src/ftbat/internet.clj" "~/clojure/ftbat/src/ftbat/core.clj" "~/clojure/quickstart/" "~/clojure/thingsimnotgoodat" "~/clojure/ThingsILearned" "~/clojure/hello.clj" "~/clojure/chapter2/src/chapter2/core.clj" "~/clojure/chapter2/" "~/clojure/ftbat/src/ftbat/core.clj" "~/clojure/ftbat/src/ftbat/internet.clj" "~/clojure/ftbat/src/ftbat/macrofun.clj" "~/clojure/ftbat/src/ftbat/core.clj" "~/clojure/ftbat/src/" "~/clojure/ftbat/project.clj" "~/clojure/ftbat/src/ftbat/macrofun.clj" "~/clojure/ftbat/src/ftbat/core.clj" "~/clojure/ftbat/src/ftbat/macrofun.clj" "~/.emacs.d/custom.el" "~/Writing/some5" "~/Writing/" "~/clojure/chapter2/src/chapter2/handler.clj" "~/clojure/chapter2/src/chapter2/core.clj" "~/clojure/chapter2/" "~/clojure/ftbat/project.clj" "~/clojure/ftbat/src/ftbat/macrofun.clj" "~/clojure/ftbat/src/ftbat/core.clj" "~/clojure/ftbat" "~/.emacs.d/custom.el" "~/clojure/ftbat/src/ftbat/macrofun.clj" "~/Writing/some5" "~/Writing/" "~/web/" "~/clojure/ftbat/src/ftbat/core.clj" "~/clojure/" "~/.emacs.d/custom.el" "~/clojure/async" "~/clojure/ftbat/project.clj" "~/clojure/" "~/.emacs.d/custom.el" "~/clojure/thingsiwanttoknow.txt" "~/clojure/ThingsILearned" "~/clojure/" "~/.emacs.d/custom.el" "~/Apprentice.txt" "~/.emacs.d/custom.el" "~/.emacs.d/init.el" "~/.emacs.d/" "~/.emacs.d/init.el" "~/.emacs.d/backup/" "~/.emacs.d/lisp/init-dired.el" "~/.emacs.d/lisp/" "~/.emacs.d/custom.el" "~/MyEmacsBackups/" "~/.emacs.d/custom.el" "~/Downloads/Text/RMAvsFCB-ESPA.txt" "~/Downloads/Text/" "~/clojure/full-map" "~/clojure/ftbat/src/ftbat/core.clj" "~/clojure/ftbat/" "~/clojure/ftbat" "~/clojure" "~/.emacs.d/custom.el" "~/.emacs.d/init.el" "~/clojure/chapter2/src/chapter2/core_test.clj" "~/clojure/chapter2/test/core_test.clj" "~/clojure/chapter2/test/chapter2/core_test.clj" "~/.lein/repl-history" "~/clojure/myaudio/project.clj" "~/clojure/more-audio/src/more_audio/core.clj" "~/clojure/cljs/hello/deps.edn" "~/clojure/more-audio/project.clj" "~/clojure/cljs/hello/src/hello_world/core.cljs" "~/clojure/thingsiwanttoknow.txt" "~/.bashrc" "~/clojure/chatapp/project.clj" "~/clojure/chapter2/src/chapter2/config.clj" "~/clojure/chapter2/src/chapter2/core.clj" "~/clojure/chatapp/src/chatapp/core.clj" "~/clojure/chapter2/src/chapter2/handler.clj" "~/clojure/chatapp/src/chatapp/config/database_config.clj" "~/clojure/chatapp/src/chatapp/handler/request-handler.clj" "~/clojure/hipstr/project.clj" "~/clojure/guestbook/Dockerfile" "~/clojure/guestbook/src/clj/guestbook/config.clj" "~/clojure/guestbook/resources/migrations/20230827170619-add-users-table.down.sql" "~/clojure/guestbook/test/clj/guestbook/handler_test.clj" "~/clojure/guestbook/src/clj/guestbook/core.clj" "~/clojure/guestbook/env/dev/clj/guestbook/env.clj" "~/clojure/guestbook/env/dev/clj/guestbook/dev_middleware.clj" "~/clojure/guestbook/env/dev/clj/user.clj" "~/clojure/guestbook/env/dev/resources/config.edn" "~/clojure/guestbook/src/clj/guestbook/db/core.clj"))
+(setq grep-find-history nil)
+(setq grep-history nil)
+(setq minibuffer-history '("cider-jack-in-clj" "typescript-mode-20230116.1533" "coffee-mode-20200315.1133" "elm-test-runner-20190105.1923" "elm-mode-20230315.1122" "purescript-mode-20230309.1301" "psci-20230313.1333" "purescript-mode-20230309.1301" "typit" "recenter" "lainchan" "6667" "emacs" "6697" "#emacs" "x" "q"))
+(setq org-clock-history nil)
+(setq org-tags-history nil)
+(setq query-replace-history '("channels" "mylist" "binary-limit-of" "binaryof" "first_name" "name" "name" "guestbook" "users" "guestbook" "users" "guestbook" "users" "guestbook" "users"))
+(setq read-expression-history nil)
+(setq regexp-history nil)
+(setq regexp-search-ring nil)
+(setq register-alist '((101 . "#'ftbat.internet/homedir")))
+(setq search-ring '("garc" "neyma" "serg" "nachp" "nacho" "mes" "on" "attri" "size"))
+(setq shell-command-history nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/home/cjf/TODO/github-view.txt"
+  "github-view.txt"
+  'text-mode
+  '(font-lock-mode eldoc-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode corfu-mode anzu-mode flymake-mode)
+  178
+  '(33 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25866 17186 155372 682000))
+  '((mark-ring (33 38 58 128 128 128 178))))
+
+(desktop-create-buffer 208
+  nil
+  "*eww*"
+  'eww-mode
+  '(font-lock-mode whole-line-or-region-local-mode corfu-mode anzu-mode)
+  2490
+  '(1 nil)
+  t
+  '(:history ((:url "file:///home/cjf/Downloads/tech/ASM/C8TECH10.HTM#0.1" :title "") (:point 108 :url "file:///home/cjf/Downloads/tech/ASM/C8TECH10.HTM#0.0" :title "") (:point 80 :url "file:///home/cjf/Downloads/tech/ASM/C8TECH10.HTM" :title "Cowgod's Chip-8 Technical Reference") (:point 1 :url "file:///home/cjf/Downloads/tech/ASM/" :title "") (:point 10311 :url "file:///home/cjf/Downloads/tech/GNU/org-mode/index.html#SEC_Contents" :title "Top (The Org Manual)") (:point 41 :url "file:///home/cjf/Downloads/tech/GNU/org-mode/Summary.html" :title "Summary (The Org Manual)") (:point 177 :url "file:///home/cjf/Downloads/tech/GNU/org-mode/Introduction.html" :title "Introduction (The Org Manual)") (:point 654 :url "file:///home/cjf/Downloads/tech/GNU/org-mode/index.html" :title "Top (The Org Manual)")))
+  '((buffer-display-time 25866 17186 155372 833000) (buffer-file-coding-system . utf-8) (truncate-lines . t) (eww-history-position . 0))
+  '((mark-ring (1 2071))))
+
+(desktop-create-buffer 208
+  nil
+  "TODO"
+  'dired-mode
+  '(font-lock-mode whitespace-cleanup-mode whole-line-or-region-local-mode corfu-mode anzu-mode)
+  150
+  '(nil nil)
+  t
+  '("/home/cjf/TODO/")
+  '((buffer-display-time 25866 14661 819064 315000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/cjf/clojure/ftbat/src/ftbat/internet.clj"
+  "internet.clj"
+  'clojure-mode
+  '(cider-mode font-lock-mode eldoc-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode corfu-mode anzu-mode paredit-mode aggressive-indent-mode flymake-mode display-line-numbers-mode display-fill-column-indicator-mode rainbow-delimiters-mode symbol-overlay-mode bug-reference-prog-mode goto-address-prog-mode)
+  149
+  '(295 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (indent-tabs-mode) (buffer-display-time 25866 13769 929248 56000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (370 215 215 370 22 392 176 111 113 78 92 78 200 138 392 149))))
+
+(desktop-create-buffer 208
+  "/home/cjf/Downloads/tech/ASM/C8TECH10.HTM"
+  "C8TECH10.HTM"
+  'mhtml-mode
+  '(font-lock-mode eldoc-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode corfu-mode anzu-mode symbol-overlay-mode rainbow-mode tagedit-mode flymake-mode display-line-numbers-mode display-fill-column-indicator-mode rainbow-delimiters-mode bug-reference-prog-mode goto-address-prog-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25866 12205 610192 822000) (buffer-file-coding-system . undecided-dos))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "ASM"
+  'dired-mode
+  '(font-lock-mode whitespace-cleanup-mode whole-line-or-region-local-mode corfu-mode anzu-mode)
+  568
+  '(nil nil)
+  t
+  '("/home/cjf/Downloads/tech/ASM/")
+  '((buffer-display-time 25866 12193 498446 469000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/cjf/Downloads/tech/GNU/org-mode/index.html"
+  "index.html"
+  'mhtml-mode
+  '(font-lock-mode eldoc-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode corfu-mode anzu-mode symbol-overlay-mode rainbow-mode tagedit-mode flymake-mode display-line-numbers-mode display-fill-column-indicator-mode rainbow-delimiters-mode bug-reference-prog-mode goto-address-prog-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25866 8295 357106 429000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/cjf/Downloads/tech/GNU/org-mode/"
+  "org-mode"
+  'fundamental-mode
+  '(font-lock-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode corfu-mode anzu-mode)
+  1
+  '(1 nil)
+  nil
+  nil
+  '((buffer-display-time 25866 8268 720482 61000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "GNU"
+  'dired-mode
+  '(font-lock-mode whitespace-cleanup-mode whole-line-or-region-local-mode corfu-mode anzu-mode)
+  713
+  '(1 nil)
+  t
+  '("/home/cjf/Downloads/tech/GNU/")
+  '((buffer-display-time 25866 8166 10809 456000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "www.gnu.org"
+  'dired-mode
+  '(font-lock-mode whitespace-cleanup-mode whole-line-or-region-local-mode corfu-mode anzu-mode)
+  129
+  '(nil nil)
+  t
+  '("/home/cjf/Downloads/tech/GNU/www.gnu.org/")
+  '((buffer-display-time 25866 8103 572541 182000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "software"
+  'dired-mode
+  '(font-lock-mode whitespace-cleanup-mode whole-line-or-region-local-mode corfu-mode anzu-mode)
+  138
+  '(1 nil)
+  t
+  '("/home/cjf/Downloads/tech/GNU/www.gnu.org/software/")
+  '((buffer-display-time 25866 8100 599913 581000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "emacs"
+  'dired-mode
+  '(font-lock-mode whitespace-cleanup-mode whole-line-or-region-local-mode corfu-mode anzu-mode)
+  144
+  '(nil nil)
+  t
+  '("/home/cjf/Downloads/tech/GNU/www.gnu.org/software/emacs/")
+  '((buffer-display-time 25866 8094 603521 14000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "manual"
+  'dired-mode
+  '(font-lock-mode whitespace-cleanup-mode whole-line-or-region-local-mode corfu-mode anzu-mode)
+  151
+  '(nil nil)
+  t
+  '("/home/cjf/Downloads/tech/GNU/www.gnu.org/software/emacs/manual/")
+  '((buffer-display-time 25866 8093 920295 980000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "html_node"
+  'dired-mode
+  '(font-lock-mode whitespace-cleanup-mode whole-line-or-region-local-mode corfu-mode anzu-mode)
+  161
+  '(209 nil)
+  t
+  '("/home/cjf/Downloads/tech/GNU/www.gnu.org/software/emacs/manual/html_node/")
+  '((buffer-display-time 25866 8016 957038 177000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "org"
+  'dired-mode
+  '(font-lock-mode whitespace-cleanup-mode whole-line-or-region-local-mode corfu-mode anzu-mode)
+  1
+  '(1 nil)
+  t
+  '("/home/cjf/Downloads/tech/GNU/www.gnu.org/software/emacs/manual/html_node/org/")
+  '((buffer-display-time 25866 8012 779819 702000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "graphics"
+  'dired-mode
+  '(font-lock-mode whitespace-cleanup-mode whole-line-or-region-local-mode corfu-mode anzu-mode)
+  138
+  '(nil nil)
+  t
+  '("/home/cjf/Downloads/tech/GNU/www.gnu.org/graphics/")
+  '((buffer-display-time 25866 7918 687312 236000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/cjf/clojure/ftbat/src/ftbat/core.clj"
+  "core.clj"
+  'clojure-mode
+  '(cider-mode eldoc-mode font-lock-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode corfu-mode anzu-mode paredit-mode aggressive-indent-mode flymake-mode display-line-numbers-mode display-fill-column-indicator-mode rainbow-delimiters-mode symbol-overlay-mode bug-reference-prog-mode goto-address-prog-mode)
+  57
+  '(18 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (indent-tabs-mode) (buffer-display-time 25865 45140 311460 764000) (buffer-file-coding-system . undecided-unix) (overwrite-mode))
+  '((mark-ring (336 336 336 336 336 336 336 336 336 336 336 336 336 293 336 15))))
+
+(desktop-create-buffer 208
+  nil
+  "quickstart"
+  'dired-mode
+  '(font-lock-mode whitespace-cleanup-mode whole-line-or-region-local-mode corfu-mode anzu-mode)
+  492
+  '(nil nil)
+  t
+  '("/home/cjf/clojure/quickstart/")
+  '((buffer-display-time 25865 44553 688616 659000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/cjf/clojure/thingsimnotgoodat"
+  "thingsimnotgoodat"
+  'fundamental-mode
+  '(font-lock-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode corfu-mode anzu-mode)
+  279
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 25865 44547 6890 753000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/cjf/clojure/ThingsILearned"
+  "ThingsILearned"
+  'fundamental-mode
+  '(font-lock-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode corfu-mode anzu-mode)
+  1
+  '(617 nil)
+  nil
+  nil
+  '((buffer-display-time 25865 44547 550771 259000) (buffer-file-coding-system . undecided-unix) (overwrite-mode))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/cjf/clojure/hello.clj"
+  "hello.clj"
+  'clojure-mode
+  '(font-lock-mode eldoc-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode corfu-mode anzu-mode paredit-mode aggressive-indent-mode cider-mode flymake-mode display-line-numbers-mode display-fill-column-indicator-mode rainbow-delimiters-mode symbol-overlay-mode bug-reference-prog-mode goto-address-prog-mode)
+  390
+  '(356 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (indent-tabs-mode) (buffer-display-time 25865 44547 840415 188000) (buffer-file-coding-system . undecided-unix) (overwrite-mode))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/cjf/clojure/chapter2/src/chapter2/core.clj"
+  "core.clj"
+  'clojure-mode
+  '(font-lock-mode eldoc-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode corfu-mode anzu-mode paredit-mode aggressive-indent-mode cider-mode flymake-mode display-line-numbers-mode display-fill-column-indicator-mode rainbow-delimiters-mode symbol-overlay-mode bug-reference-prog-mode goto-address-prog-mode)
+  1105
+  '(608 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (indent-tabs-mode) (buffer-display-time 25865 44548 191502 545000) (buffer-file-coding-system . undecided-unix) (overwrite-mode))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "chapter2"
+  'dired-mode
+  '(font-lock-mode whitespace-cleanup-mode whole-line-or-region-local-mode corfu-mode anzu-mode)
+  224
+  '(nil nil)
+  t
+  '("/home/cjf/clojure/chapter2/src/chapter2/")
+  '((buffer-display-time 25865 44548 975663 480000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "src"
+  'dired-mode
+  '(font-lock-mode whitespace-cleanup-mode whole-line-or-region-local-mode corfu-mode anzu-mode)
+  163
+  '(nil nil)
+  t
+  '("/home/cjf/clojure/chapter2/src/")
+  '((buffer-display-time 25865 44549 678911 566000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "chapter2"
+  'dired-mode
+  '(font-lock-mode whitespace-cleanup-mode whole-line-or-region-local-mode corfu-mode anzu-mode)
+  491
+  '(nil nil)
+  t
+  '("/home/cjf/clojure/chapter2/")
+  '((buffer-display-time 25865 44550 415897 696000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/cjf/clojure/ftbat/src/ftbat/macrofun.clj"
+  "macrofun.clj"
+  'clojure-mode
+  '(eldoc-mode cider-mode font-lock-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode corfu-mode anzu-mode paredit-mode aggressive-indent-mode flymake-mode display-line-numbers-mode display-fill-column-indicator-mode rainbow-delimiters-mode symbol-overlay-mode bug-reference-prog-mode goto-address-prog-mode)
+  1124
+  '(1147 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (indent-tabs-mode) (buffer-display-time 25865 43589 587524 496000) (buffer-file-coding-system . undecided-unix) (overwrite-mode))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "ftbat"
+  'dired-mode
+  '(font-lock-mode whitespace-cleanup-mode whole-line-or-region-local-mode corfu-mode anzu-mode)
+  270
+  '(nil nil)
+  t
+  '("/home/cjf/clojure/ftbat/src/ftbat/")
+  '((buffer-display-time 25865 40996 808015 450000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "src"
+  'dired-mode
+  '(font-lock-mode whitespace-cleanup-mode whole-line-or-region-local-mode corfu-mode anzu-mode)
+  160
+  '(nil nil)
+  t
+  '("/home/cjf/clojure/ftbat/src/")
+  '((buffer-display-time 25865 40996 21626 437000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/cjf/clojure/ftbat/project.clj"
+  "project.clj"
+  'clojure-mode
+  '(eldoc-mode cider-mode font-lock-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode corfu-mode anzu-mode paredit-mode aggressive-indent-mode flymake-mode display-line-numbers-mode display-fill-column-indicator-mode rainbow-delimiters-mode symbol-overlay-mode bug-reference-prog-mode goto-address-prog-mode)
+  384
+  '(365 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (indent-tabs-mode) (buffer-display-time 25865 40994 971900 538000) (buffer-file-coding-system . undecided-unix) (overwrite-mode))
+  '((mark-ring (365 346 425 490 365))))
+

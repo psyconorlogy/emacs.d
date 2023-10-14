@@ -9,6 +9,13 @@
 ;; Produce backtraces when errors occur: can be helpful to diagnose startup issues
 ;;(setq debug-on-error t)
 
+(global-set-key [C-x C-e] 'eval-last-sexp)
+
+(setq backup-directory-alist
+      `(("." . ,(concat user-emacs-directory "backups"))))
+
+(set-face-attribute 'default nil :height 170)
+
 (let ((minver "26.1"))
   (when (version< emacs-version minver)
     (error "Your Emacs is too old -- this config requires v%s or higher" minver)))
@@ -24,9 +31,7 @@
 
 ;; Adjust garbage collection thresholds during startup, and thereafter
 
-(let ((normal-gc-cons-threshold (* 20 1024 1024))
-      (init-gc-cons-threshold (* 128 1024 1024)))
-  (setq gc-cons-threshold init-gc-cons-threshold)
+(let ((normal-gc-cons-threshold (* 20 1024 1024)))
   (add-hook 'emacs-startup-hook
             (lambda () (setq gc-cons-threshold normal-gc-cons-threshold))))
 
@@ -86,7 +91,6 @@
 (require 'init-textile)
 (require 'init-markdown)
 (require 'init-csv)
-(require 'init-erlang)
 (require 'init-javascript)
 (require 'init-php)
 (require 'init-org)
@@ -97,22 +101,13 @@
 (require 'init-http)
 (require 'init-python)
 (require 'init-haskell)
-(require 'init-elm)
-(require 'init-purescript)
 (require 'init-ruby)
-(require 'init-rails)
 (require 'init-sql)
-(require 'init-ocaml)
 (require 'init-j)
-(require 'init-nim)
-(require 'init-rust)
 (require 'init-toml)
 (require 'init-yaml)
 (require 'init-docker)
-(require 'init-terraform)
-(require 'init-nix)
 (maybe-require-package 'nginx-mode)
-
 (require 'init-paredit)
 (require 'init-lisp)
 (require 'init-slime)
@@ -156,6 +151,8 @@
 
 (require 'init-direnv)
 
+
+
 
 
 ;; Allow access from emacsclient
@@ -169,6 +166,8 @@
 (when (file-exists-p custom-file)
   (load custom-file))
 
+(desktop-save-mode 0)
+(setq desktop-save nil)
 ;; Locales (setting them earlier in this file doesn't work in X)
 (require 'init-locales)
 
